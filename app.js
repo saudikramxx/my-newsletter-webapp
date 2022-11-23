@@ -64,5 +64,3 @@ app.listen(process.env.PORT || 3000, function() {
 
 
 
-// apikey = "faf5ec5568f661d633455c35c2fec3d7-us14"
-//listid = "a5b76c2c87"
